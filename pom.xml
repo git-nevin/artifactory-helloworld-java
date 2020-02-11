@@ -35,13 +35,13 @@
         </plugins>
     </build>
 
-    <distributionManagement>
+    <!--distributionManagement>
        <repository>
         <id>central</id>
         <name>osboxes-releases</name>
         <url>http://192.168.56.127:8081/artifactory/libs-release</url>
        </repository>
-    </distributionManagement>
+    </distributionManagement-->
 
     <!--configuration>
         <mainClass>com.hello.HelloWorld</mainClass>
